@@ -1,7 +1,7 @@
  <!-- Profile header -->
 <div align="center">
 
-# 👋 Hey, I'm Riyasudeen
+# 👋 Hey, I'm Mohamed Riyasudeen
 
 ### `Java Backend Developer | Aspiring Software Engineer`
 
