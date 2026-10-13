@@ -1,93 +1,107 @@
+ <!-- Profile header -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Riyasudeen</h1>
+# 👋 Hey, I'm Riyasudeen
 
-<h3 align="center">☕ Java Backend Developer | Building My Future in Software Development</h3>
+### `Java Backend Developer | Aspiring Software Engineer`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Learning+Spring+Boot+%26+REST+APIs;Building+Projects+and+Learning+Every+Day" alt="Typing introduction" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00F7A5&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Java+%7C+Spring+Boot+%7C+SQL;Building+projects%2C+one+commit+at+a+time;Learning.+Building.+Improving." alt="Typing SVG" />
 
----
+<br/>
 
-## 👨‍💻 About Me
+<a href="https://github.com/Mr-riyasudeen">
+  <img src="https://img.shields.io/badge/GitHub-Mr--riyasudeen-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/Role-Fresher-00C853?style=for-the-badge" alt="Fresher"/>
+<img src="https://img.shields.io/badge/Focus-Backend_Development-007ACC?style=for-the-badge" alt="Backend Development"/>
 
-- 🎯 Aspiring Java Backend Developer
-- ☕ Interested in Java and backend application development
-- 🌱 Learning and improving my skills in Spring Boot and SQL
-- 💡 Practicing problem-solving and programming logic
-- 🚀 Focused on building practical projects
-- 🤝 Open to learning, collaboration, and new opportunities
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, VS Code, Eclipse" />
-</p>
+</div>
 
 ---
 
-## 🚀 Projects
+## 💻 About Me
 
-### ☕ Java Projects
-Practicing Java fundamentals, OOP concepts, collections, and problem-solving.
+```java
+public class Developer {
 
-### 🔐 Script-Controlled ACL — ServiceNow
-Exploring record-level access control based on field values using Access Control Lists and server-side scripting.
+    String name = "Riyasudeen";
+    String role = "Aspiring Software Engineer";
+    String[] interests = {
+        "Java Development",
+        "Backend Engineering",
+        "Database Management",
+        "Problem Solving"
+    };
 
-### 📝 Incident Client Script & UI Policy — ServiceNow
-Working with client-side form behavior and UI policies in ServiceNow.
+    String mindset = "Learn, Build, Improve";
 
-> Project repository links will be added here as the projects are uploaded to GitHub.
+    public static void main(String[] args) {
+        Developer me = new Developer();
+        System.out.println("Turning ideas into code!");
+    }
+}
+```
 
----
+- 🎓 A fresher passionate about software development.
+- ☕ Interested in Java backend development.
+- 🗄️ Learning to build applications with databases.
+- 🛠️ Improving my coding and problem-solving skills.
+- 🚀 Working towards becoming a professional software engineer.
 
-## 📚 Currently Learning
+## ⚙️ Tech Stack
 
-- Java and Object-Oriented Programming
-- Java Collections and Java 8 features
-- Spring Boot
-- REST API development
-- SQL and database management
-- Git and GitHub
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,eclipse&perline=5" alt="Technology Stack"/>
 
-## 🎯 My Goal
+</div>
 
-To become a skilled Java Backend Developer by continuously learning, solving problems, and building useful applications.
+## 🚀 Featured Projects
 
----
+> Real projects, clean code, and continuous improvement.
 
-## 🤝 Connect With Me
+- **Java Projects** — Core Java, OOP, Collections and Java 8 practice.
+- **Backend Development** — Java, Spring Boot and database-based applications.
+- **E-Commerce Website** — Product browsing and shopping application development.
+- **ServiceNow Projects** — Platform configuration and access-control practice.
 
-<p>
-  <a href="https://github.com/Mr-riyasudeen">
-    <img src="https://img.shields.io/badge/GitHub-Mr--riyasudeen-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-</p>
+<!-- Add your actual project repository links here -->
 
----
+## 📊 GitHub Statistics
 
-<p align="center">
-  <i>"Consistency, practice, and continuous learning lead to growth."</i>
-</p>
+<div align="center">
 
-<p align="center">⭐ Thanks for visiting my profile!</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-riyasudeen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-riyasudeen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Mr-riyasudeen&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+## 🎯 Current Goals
+
+- Strengthen Java and Spring Boot fundamentals.
+- Build practical backend projects.
+- Improve problem-solving and interview skills.
+- Learn industry-standard development practices.
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Mr-riyasudeen">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### `while (learning) { keepBuilding(); }`
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
